@@ -4,6 +4,5 @@ while true do
     turtle.digUp()
     turtle.digDown()
     turtle.forward()
-    gfl = turtle.GetFuelLevel()
-    print(gfl)
+    turtle.getFuelLevel()
 exit
