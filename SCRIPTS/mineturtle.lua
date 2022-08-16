@@ -5,4 +5,4 @@ while true do
     turtle.digDown()
     turtle.forward()
     turtle.getFuelLevel()
-exit
+end
